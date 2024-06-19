@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Building a spring boot from scratch](https://github.com/harishk97/Minikube-SpringApp)
 
-- 👯 I’m looking to collaborate on **DevOps Cloud Security**
+- 👯 I’m looking to collaborate on **DevOps | SRE | Cloud | Security**
 
 - 👨‍💻 All of my projects are available at [https://github.com/harishk97](https://github.com/harishk97)
 
